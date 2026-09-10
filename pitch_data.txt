@@ -1,1 +1,21 @@
+COMPANY & PRODUCT:
+Company: StaySync AI Solutions
+Product: WhatsApp AI Receptionist for Hotels
+Target Area: Haridwar, Rishikesh, Dehradun
 
+HOTEL OWNERS KI MAIN PROBLEMS (Pain Points):
+1. Missed Bookings: Raat ko ya busy hours me 30-40% WhatsApp room inquiries miss ho jati hain.
+2. High OTA Commission: MakeMyTrip aur Goibibo har booking par 18% se 25% commission kaat lete hain.
+3. Food Ordering Chaos: Reception staff room service orders lene me galti karta hai.
+4. Staff Shortage: Har waqt phone par baithne ke liye 24/7 skilled receptionist rakhna costly hai.
+
+AI RECEPTIONIST KE FEATURES:
+1. 24/7 Instant Replies: Bina kisi delay ke room price, location, distance details bhejta hai.
+2. Direct Bookings: WhatsApp par hi guest se room requirements aur advance payment collect karke booking confirm karta hai (Zero Commission).
+3. Kitchen Alert System: Guest room se order karega, seedha kitchen ke phone ya printer par KOT alert chala jayega.
+4. Multilingual: Hindi, Hinglish, English, Gujrati, Marathi sabhi me natural baat karta hai.
+
+OFFER & CALL TO ACTION:
+- Setup Time: Sirf 24 ghante me ready.
+- Free Trial / Live Demo: 2 minute ka live interactive demo ready hai.
+- Founder/Sales Contact: Call ya meeting schedule karne ke liye phone number +91-7500058655.
