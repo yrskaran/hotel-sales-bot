@@ -1,38 +1,33 @@
-COMPANY & PRODUCT:
+COMPANY & PRODUCT
 Company: StaySync AI Solutions
 Product: WhatsApp AI Receptionist for Hotels
-Target Area: Haridwar, Rishikesh
+Primary target area: Haridwar, Rishikesh and nearby Uttarakhand hotel markets
 
-HOTEL OWNERS KI MAIN PROBLEMS (Pain Points):
-1. Missed Bookings: Raat ko ya busy hours me 30-40% WhatsApp room inquiries miss ho jati hain.
-2. High OTA Commission: MakeMyTrip aur Goibibo har booking par 18% se 25% commission kaat lete hain.
-3. Food Ordering Chaos: Reception staff room service orders lene me galti karta hai.
-4. Staff Shortage: Har waqt phone par baithne ke liye 24/7 skilled receptionist rakhna costly hai.
+CORE PROBLEMS WE SOLVE
+- Hotel WhatsApp enquiries can be missed at night or when reception is busy.
+- Heavy dependence on OTA bookings can increase commission costs.
+- Repetitive guest questions consume front-desk time.
+- Hotels may need faster enquiry handling without adding 24/7 staff workload.
 
-AI RECEPTIONIST KE FEATURES:
-1. 24/7 Instant Replies: Bina kisi delay ke room price, location, distance details bhejta hai.
-2. Direct Bookings: WhatsApp par hi guest se room requirements aur advance payment collect karke booking confirm karta hai (Zero Commission).
-3. Kitchen Alert System: Guest room se order karega, seedha kitchen ke phone ya printer par KOT alert chala jayega.
-4. Multilingual: Hindi, Hinglish, English, Gujrati, Marathi sabhi me natural baat karta hai.
+CORE CAPABILITIES
+- 24/7 WhatsApp enquiry replies.
+- Answers common questions such as room availability information, pricing shared by the hotel, location and hotel FAQs.
+- Collects guest requirements and helps move qualified enquiries toward direct-booking conversations.
+- Can be customized around a hotel's own information and common guest questions.
+- Can communicate naturally in Hindi, Hinglish and English; mention other languages only if they are actually configured for that hotel.
 
-OFFER & CALL TO ACTION:
-- Setup Time: Sirf 24 ghante me ready.
-- Free Trial / Live Demo: 2 minute ka live interactive demo ready hai.
-- Founder/Sales Contact: Call ya meeting schedule karne ke liye phone number +91-7500058655.
+OPTIONAL / CUSTOM FEATURES
+Only discuss these when they are actually included in the customer's setup:
+- Payment-link or advance-payment workflow.
+- Kitchen / room-service alert workflow.
+- Integrations with hotel systems or other tools.
 
-AI Receptionist for Hotels
+SALES POSITIONING
+- Do not guarantee booking growth, revenue growth, a fixed commission saving, or a specific percentage of missed enquiries.
+- It is fair to say that increasing direct-booking conversations can reduce unnecessary OTA dependence.
+- If asked for pricing and no exact package price is configured, explain that pricing depends on requirements and offer a short customized demo.
 
-Core value:
-- Replies to hotel enquiries 24/7.
-- Helps capture enquiries that may otherwise be missed at night or during busy front-desk hours.
-- Can help move more enquiries toward direct booking conversations and reduce unnecessary OTA dependence.
-- A live demo can be customized using the hotel's name and common guest questions.
-
-Sales guidance:
-- Do not promise guaranteed savings or guaranteed booking growth.
-- Do not invent prices. If you have a real package/range, add it to this file.
-- Keep the first interaction short and focus on getting permission for a quick demo.
-
-Contact / internal reference:
-+91-7500058655
-
+CALL TO ACTION
+- Offer a quick 2-minute live preview or a 10-minute demo call.
+- Ask for a convenient date/time when the owner is interested.
+- Internal sales contact / meeting alerts: +91-7500058655
